@@ -1,2 +1,3 @@
-# Squid API
-API for Squid - This is Documentation Only
+# Introduction
+
+Squid follows RESTful API. The API send and receives data in JSON format.
